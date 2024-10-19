@@ -1,14 +1,17 @@
 {
-    "name": "Shitfuck 2",
+    "name": "Stinky",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Shitfuck 2": "github:kaz-dc/shitfuck-2#2ed50de1f181e26ee5bf1839f571ed061361d3bb"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
